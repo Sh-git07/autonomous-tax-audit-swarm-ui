@@ -1,0 +1,10 @@
+{
+  "description": "AI-powered dashboard streamlines invoice auditing and GST compliance with real-time insights, exception handling, and vendor management for finance teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
